@@ -160,6 +160,9 @@
         <mxCell id="IxZrvqRxImeJ6P3bgw-v-110" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7ui.pageControl;fillColor=#222222;strokeColor=#aaaaaa;sketch=0;" value="" vertex="1">
           <mxGeometry height="10" width="50" x="370" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="IxZrvqRxImeJ6P3bgw-v-114" parent="1" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7ui.onOffButton;buttonState=on;strokeColor=#38D145;strokeColor2=#aaaaaa;fillColor=#38D145;fillColor2=#ffffff;" value="" vertex="1">
+          <mxGeometry height="15" width="43.5" x="220" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
